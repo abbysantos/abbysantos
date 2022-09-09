@@ -1,5 +1,5 @@
 ![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
-<h1 align="center">Hi 👋, I'm Abby Santos</h1>
+<h1 align="center">Hi 👋🏼, I'm Abby Santos</h1>
 <h3 align="center">A passionate business intelligence professional from SF Bay Area</h3>
 <img align="right" alt="Coding" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/Analytics_amp_Data_Science.gif">
 
